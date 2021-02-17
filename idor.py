@@ -40,8 +40,8 @@ banner = """
 ´´´´´´´´´´´´´´´´´´¶¶´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´¶¶´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´´´´´´´´´´´´´´´´´´´´
 
-                       root@unknown45
-                   https://exploits.my.id/
+                       root@reapers#~
+                   https://github.com/rabeltester44/
 """
 import requests, re, sys, threading
 from  time import sleep
