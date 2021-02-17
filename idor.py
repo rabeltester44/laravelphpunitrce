@@ -40,7 +40,7 @@ banner = """
 ´´´´´´´´´´´´´´´´´´¶¶´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´¶¶´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´´´´´´´´´´´´´´´´´´´´
 
-                       root@reapers#~
+                       root@reapers
                    https://github.com/rabeltester44/
 """
 import requests, re, sys, threading
